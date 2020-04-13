@@ -1,0 +1,9 @@
+name: Blacksmith
+main: KinokiYT\BlackSmith\Main
+api: [3.0.0, 4.0.0]
+version: 2.3
+author: KinokiYT
+commands:
+  blacksmith:
+    description: "Blacksmith Menu"
+    default: true
